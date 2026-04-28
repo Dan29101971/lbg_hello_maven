@@ -33,7 +33,7 @@
     </snapshotRepository>
     <repository>
           <id>nexus.release</id>
-          <url>http://35.210.4.150:8081/repository/nexus-releases/</url>
+          <url>http://35.210.4.150:8081/repository/nexus-release/</url>
     </repository>
 </distributionManagement>
 
